@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+​<Person>
+    <Name>Mohini</Name>
+    <Interest>Coding, Art</Interest>
+    <Hobbies>Painting, Cooking, Dancing</Hobbies>
+</Person>
+
+<!--  2nd  Structure for 10 records -->
+<?xml version="1.0" encoding="utf-8"?>
+​<Data>
+    <Person>
+        <Name>Mohini</Name>
+        <Interest>Coding, Art</Interest>
+        <Hobbies>Painting, Cooking, Dancing</Hobbies>
+    </Person>
+    <Person>
+        <Name>Hiral</Name>
+        <Interest>Physics, Coding, Art</Interest>
+        <Hobbies>Sketching, Photography</Hobbies>
+    </Person>
+    <Person>
+        <Name>Kinjal</Name>
+        <Interest>Art, Planting</Interest>
+        <Hobbies>Photography, Dancing</Hobbies>
+    </Person>
+    <Person>
+        <Name>Hetal</Name>
+        <Interest>Sports, Coding</Interest>
+        <Hobbies>Sketching, Painting, Photography, Gym</Hobbies>
+    </Person>
+    <Person>
+        <Name>khyati</Name>
+        <Interest>Astronomy, Planting</Interest>
+        <Hobbies>Cooking, Singing</Hobbies>
+    </Person>
+    <Person>
+        <Name>Priya</Name>
+        <Interest>Astronomy, Physics, Coding, Art, Planting</Interest>
+        <Hobbies>Sketching, Gym</Hobbies>
+    </Person>
+    <Person>
+        <Name>Neha</Name>
+        <Interest>Coading, Gaming</Interest>
+        <Hobbies>Singing, Dancing</Hobbies>
+    </Person>
+    <Person>
+        <Name>Nidhi</Name>
+        <Interest>Art, Planting</Interest>
+        <Hobbies>Sketching, Photography</Hobbies>
+    </Person>
+    <Person>
+        <Name>Rima</Name>
+        <Interest>Coding, Art, Planting</Interest>
+        <Hobbies>Sketching, Painting, Photography</Hobbies>
+    </Person>
+    <Person>
+        <Name>Riya</Name>
+        <Interest>Physics, Coding</Interest>
+        <Hobbies>Traveling, Singing</Hobbies>
+    </Person>
+</Data>
