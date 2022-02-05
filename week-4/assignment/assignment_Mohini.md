@@ -1,7 +1,7 @@
 # Assignment - Week 4
 
-1. ![image info](./catalog1.PNG)
-   ![image info](./catalog2.PNG)
+1. ![image info](./catalog_1.png)
+   ![image info](./catalog_2.png)
 
 - in this assignment we have use the XSL style sheet(assignment.xsl) to style the XML document(assignment.xml).
 - There are two main attributes of XSL style sheet.
