@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<class>
+  <employee empId="101">
+    <fullName>Raj</fullName>
+    <departmentName deptId="1">Information Technology</departmentName>
+    <salary currency="CAD">$10000</salary>
+    <gender>Male</gender>    
+  </employee>
+  <employee empId="102">
+    <fullName>Vidhi</fullName>
+    <departmentName deptId="3">HR</departmentName>
+    <salary currency="CAD">$9000</salary>
+    <gender>Female</gender>    
+  </employee>
+  <employee empId="103">
+    <fullName>Alex</fullName>
+    <departmentName deptId="3">HR</departmentName>
+    <salary currency="CAD">$10000</salary>
+    <gender>Female</gender>    
+  </employee>
+  <employee empId="104">
+    <fullName>Max</fullName>
+    <departmentName deptId="3">HR</departmentName>
+    <salary currency="CAD">$21000</salary>
+    <gender>Female</gender>    
+  </employee>
+  <employee empId="105">
+    <fullName>Roy</fullName>
+    <departmentName deptId="1">Information Technology</departmentName>
+    <salary currency="USD">$19000</salary>
+    <gender>Male</gender>    
+  </employee>
+  <employee empId="106">
+    <fullName>emma</fullName>
+    <departmentName deptId="1">Information Technology</departmentName>
+    <salary currency="AUS">$12000</salary>
+    <gender>Male</gender>    
+  </employee>
+  <employee empId="007">
+    <fullName>Garry</fullName>
+    <departmentName deptId="2">Computer Science</departmentName>
+    <salary currency="USD">$90000</salary>
+    <gender>Female</gender>    
+  </employee>
+  <employee empId="008">
+    <fullName>Trump</fullName>
+    <departmentName deptId="4">Business</departmentName>
+    <salary currency="CAD">$50000</salary>
+    <gender>Male</gender>    
+  </employee>
+  <employee empId="009">
+    <fullName>Adam</fullName>
+    <departmentName deptId="1">Information Technology</departmentName>
+    <salary currency="CAD">$49000</salary>
+    <gender>Male</gender>    
+  </employee>
+  <employee empId="010">
+    <fullName>Jempsted</fullName>
+    <departmentName deptId="3">Business</departmentName>
+    <salary currency="USD">$29000</salary>
+    <gender>Female</gender>    
+  </employee>
+  <employee empId="011">
+    <fullName>Thomas</fullName>
+    <departmentName deptId="4">Business</departmentName>
+    <salary currency="USD">$39521</salary>
+    <gender>Female</gender>    
+  </employee>
+  <employee empId="012">
+    <fullName>max</fullName>
+    <departmentName deptId="2">Computer Science</departmentName>
+    <salary currency="AUS">$79000</salary>
+    <gender>Female</gender>    
+  </employee>
+  <employee empId="013">
+    <fullName>tim</fullName>
+    <departmentName deptId="4">Business</departmentName>
+    <salary currency="USD">$49000</salary>
+    <gender>Male</gender>    
+  </employee>
+  <employee empId="014">
+    <fullName>Nil</fullName>
+    <departmentName deptId="4">Business</departmentName>
+    <salary currency="USD">$32000</salary>
+    <gender>Male</gender>    
+  </employee>
+  <employee empId="015">
+    <fullName>Oleksi</fullName>
+    <departmentName deptId="1">Information Technology</departmentName>
+    <salary currency="AUS">$33000</salary>
+    <gender>Male</gender>    
+  </employee>
+  <employee empId="016">
+    <fullName>Priya</fullName>
+    <departmentName deptId="2">Computer Science</departmentName>
+    <salary currency="USD">$15000</salary>
+    <gender>Male</gender>    
+  </employee>
+  <employee empId="017">
+    <fullName>Queen</fullName>
+    <departmentName deptId="2">Computer Science</departmentName>
+    <salary currency="CAD">$102000</salary>
+    <gender>Female</gender>    
+  </employee>
+  <employee empId="018">
+    <fullName>Rory</fullName>
+    <departmentName deptId="1">Information Technology</departmentName>
+    <salary currency="CAD">$12100</salary>
+    <gender>Male</gender>    
+  </employee>
+  <employee empId="019">
+    <fullName>Sharma Rohit</fullName>
+    <departmentName deptId="4">Business</departmentName>
+    <salary currency="AUS">$60000</salary>
+    <gender>Female</gender>    
+  </employee>
+  <employee empId="020">
+    <fullName>Temba</fullName>
+    <departmentName deptId="1">Information Technology</departmentName>
+    <salary currency="AUS">$45000</salary>
+    <gender>Female</gender>    
+  </employee>
+  <employee empId="021">
+    <fullName>jim</fullName>
+    <departmentName deptId="1">Information Technology</departmentName>
+    <salary currency="CAD">$39000</salary>
+    <gender>Male</gender>    
+  </employee>
+  <employee empId="022">
+    <fullName>will</fullName>
+    <departmentName deptId="4">Business</departmentName>
+    <salary currency="AUS">$119000</salary>
+    <gender>Male</gender>    
+  </employee>
+  <employee empId="023">
+    <fullName>Sarvo</fullName>
+    <departmentName deptId="2">Computer Science</departmentName>
+    <salary currency="USD">$12000</salary>
+    <gender>Female</gender>    
+  </employee>
+  <employee empId="024">
+    <fullName>charles</fullName>
+    <departmentName deptId="2">Computer Science</departmentName>
+    <salary currency="CAD">$23000</salary>
+    <gender>Female</gender>    
+  </employee>
+  <employee empId="025">
+    <fullName>masum</fullName>
+    <departmentName deptId="4">Business</departmentName>
+    <salary currency="USD">$1000</salary>
+    <gender>Male</gender>    
+  </employee>
+</class>

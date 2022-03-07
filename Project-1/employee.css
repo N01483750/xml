@@ -1,0 +1,15 @@
+body{
+    background-color: yellowgreen;
+}
+th,td {
+    padding: 0 30px;
+    background-color: aqua;
+  }
+
+  button {
+      margin: 20px;
+  }
+
+  h4 {
+      margin: 7px;
+  }
