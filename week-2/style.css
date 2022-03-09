@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 originalName{
     font-size: large;
 }
@@ -9,3 +10,12 @@ oldName{
     display: block;
   }
   
+=======
+name {
+  font-weight: bold;
+}
+
+* {
+  display: block;
+}
+>>>>>>> d7bc6e50f43277eea3365e2cc02265c9278ff830
