@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+body {
+    background: linear-gradient(to right, #673ab7 0%, #81d4fa 100%);
+    color: black;
+}
+input, select, label, fieldset {
+    margin: 5px;
+    border-color: black;
+    border-radius: 5px;
+}
+table{
+   text-align: center;
+}
