@@ -36,28 +36,10 @@ const getAllStudents = (term, gender, semester, valueTerm ) =>
                     break;
         }
     }
-
-    // check gender
     if(gender && gender != "other") {
         gender = (gender == "male") ? male : female;
         data = data.filter(({is_male}) => gender === is_male);
     }
-
-    // check education
-        //if(card_type && card_type.length > 0) {
-           // let cards = [];
-           // card_type.map((card) => {
-             //   cards.push(...data.filter((data) => card == data.card_type));
-            //})
-            //data = cards;
-        //}
-        
-        // filter cost range
-        //if (cost_from && cost_from != "" && cost_to && cost_to != "") {
-        //    data = data.filter(({material_rate}) => Number(material_rate.replace("$","")) >= Number(cost_from) && Number(material_rate.replace("$","")) <= Number(cost_to));
-        //}
-    
-    // filter by material type
     if(semester && semester != "none") {
         data = data.filter(({semester_number}) => semester_number.toLowerCase() === semester);
     }
