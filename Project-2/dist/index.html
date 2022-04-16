@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project 2</title>
+        <link rel="stylesheet" href="../styles/index.css"/>
+    </head>
+    <body>
+        <h1>Student Information</h1>
+        <form id="myForm" >
+            <input type="text" name="input" id="input-value-term" placeholder="Please Enter value..."/>
+            <select name="filters" id="filter">
+                <option value="none">None</option>
+                <option value="id">Id</option>
+                <option value="first_name">First Name</option>
+                <option value="last_name">Last Name</option>
+                <option value="contact_number">Contact Number</option>
+                <option value="email">Email</option>
+                <option value="department">Department</option>
+                <option value="university">University</option>
+                <option value="city">City</option>
+                <option value="state">State</option>
+            </select>
+            <fieldset>                
+                <legend>Gender</legend>
+                <input type="radio" name="gender" value="none"/>
+                <label for="none">None</label>                            
+                <input type="radio" name="gender" value="male"/>
+                <label for="male">Male</label>                                
+                <input type="radio" name="gender" value="female"/>
+                <label for="female">Female</label>       
+            </fieldset>
+            <fieldset>                
+                <legend>Education Type</legend>
+                <input type="checkbox" name="education" value="pg"/>
+                <label for="pg">Post Graduation</label>                                
+                <input type="checkbox" name="education" value="ug"/>
+                <label for="ug">Under Graduation</label>       
+            </fieldset>
+            <fieldset>
+                <legend>Average SPI</legend>
+                <input type="text" name="grades_from" placeholder="0"/>
+            </fieldset>
+            <label>Semester:</label>
+            <select name="semester" id="semester">
+                <option value="None">None</option>
+                <option value="one">1</option>
+                <option value="two">2</option>
+                <option value="three">3</option>
+                <option value="four">4</option>
+                <option value="five">5</option>
+                <option value="six">6</option>
+                <option value="seven">7</option>
+                <option value="eight">8</option>
+            </select>
+            <br/>
+            <input type="submit" value="Filter"/>
+            <input type="reset" value="Reset"/>
+        </form>
+        <table>
+            <thead>
+              <th>Id</th>
+              <th>First Name</th>
+              <th>Last Name</th>
+              <th>Contact Number</th>
+              <th>Email</th>
+              <th>Department</th>
+              <th>University</th>
+              <th>City</th>
+              <th>State</th>
+            </thead>
+            <tbody id="table-body"></tbody>
+          </table>
+          <script type="text/javascript" src="./bundle.js"></script>
+    </body>
+</html>
